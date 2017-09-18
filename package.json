@@ -1,0 +1,23 @@
+{
+  "name": "gitbook1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gitbook serve ./content ./gh-pages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZyyyyyyM/gitbook1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZyyyyyyM/gitbook1/issues"
+  },
+  "homepage": "https://github.com/ZyyyyyyM/gitbook1#readme",
+  "dependencies": {
+    "gh-pages": "^1.0.0"
+  }
+}
